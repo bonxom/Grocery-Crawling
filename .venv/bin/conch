@@ -1,4 +1,4 @@
-#!/home/bonxom/Code/Grocery-Crawling/.venv/bin/python3
+#!/home/bonxom/Code/DataScience/.venv/bin/python3
 import sys
 from twisted.conch.scripts.conch import run
 if __name__ == '__main__':
